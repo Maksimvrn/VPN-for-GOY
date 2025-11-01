@@ -1,0 +1,2 @@
+# VPN-for-GOY
+VPN by CRYAN
